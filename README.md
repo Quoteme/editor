@@ -1,6 +1,6 @@
 # editor
 
-FIXME: description
+A simple Vim inspired editor written in clojure
 
 ## Installation
 
